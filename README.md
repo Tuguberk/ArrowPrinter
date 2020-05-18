@@ -1,7 +1,7 @@
 # ArrowPrinter
 Simple Arrow Printer
 
-Simple Output:
+Expected Output:
 
 ```
      *          *          *          *          *     
